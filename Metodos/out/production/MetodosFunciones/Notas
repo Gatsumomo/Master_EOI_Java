@@ -1,0 +1,12 @@
+todo se llama metodos en java
+funcion---> bloque de codigo reutilizable que puede ser llamado en cualquier lugar del programa
+solo se ejecuta cuando es llamado
+puede recibir o no argumentos (parametros)---> datos de entrada que utiliza la funcion
+
+creacion de metodo---> se declara dentro de una clase
+
+ public class MSDHG {
+     static void jdshg(){
+         //bloque de codigo
+     }
+ }
